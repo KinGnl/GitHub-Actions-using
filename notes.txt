@@ -33,7 +33,7 @@ git branch move old_branch_name new_branch_name
 Update branch modification :
 git push --set-upstream origin branch_name
 
-Delete a branch :
+Delete a branch locally and remotely :
 git push origin --delete master
 
 Create a branch :

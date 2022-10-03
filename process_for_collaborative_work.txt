@@ -1,0 +1,3 @@
+Create a new branch :
+git branch "branch name"
+Fucking your hoes
