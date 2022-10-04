@@ -1,0 +1,18 @@
+*The commit pattern* :
+
+<type>[optional scope]: <description>
+
+The different types that we'll use :
+
+*feat* : The new feature you're adding to a particular application
+*fix* : A bug fix
+*style* : Feature and updates related to styling
+*refactor* : Refactoring a specific section of the codebase
+*test* : Everything related to testing
+*docs* : Everything related to documentation
+*chore* : Regular code maintenance.[ You can also use emojis to represent commit types]
+*BREAKING CHANGE* : important modification about the project
+
+Exemples :
+
+Go through this link to get the examples please : https://www.conventionalcommits.org/en/v1.0.0/
