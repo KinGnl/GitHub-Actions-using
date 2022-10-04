@@ -1,3 +1,21 @@
-Create a new branch :
+Create a new branch s:
 git branch "branch name"
-Fuck your hoes
+
+Steps to create a branch and work on it :
+
+* Create the branch : git branch "branch_name"
+
+* Add to it the necessary files : git add [files]
+
+* About the commit : git commit -m [commit_message]
+
+*About the push : git push origin "branch_name"
+
+When you're ready to merge, you should follow these steps :
+
+* Switch to
+Switch to the main branch :
+git checkout main
+
+Merge the branch to the main branch :
+git merge "branch_name" main

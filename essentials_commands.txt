@@ -1,0 +1,9 @@
+Steps to follow :
+
+Step 1 : Create new branch : git branch "branch_name"
+
+Step 2 : Add files to this branch : git add "different_files"
+
+Step 3 : Commit these files : git commit -m "Commit describing existly what have been done"
+
+Step 4 : Push the branch and the files on it : git push origin "branch_name"
